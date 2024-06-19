@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CCI</string>
+
+    <string name="pleaseCheckIn">아래의 텍스트 상자에  <br /> 코드를 입력하고 <br /> "완료" 버튼을 누르세요.</string>
+    <string name="pleaseCheckOut">체크아웃할 장소를 선택해주세요.</string>
+    <string name="pleaseSelect">원하시는 기능을 선택해주세요.</string>
+    <string name="cihint">코드 입력</string>
+    <string name="confirm">완료</string>
+    <string name="checkin">체크인</string>
+    <string name="checkout">체크아웃</string>
+    <string name="selfcheck">자가진단</string>
+    <string name="reserve">선별진료소 예약</string>
+    <string name="login">로그인</string>
+    <string name="register">회원가입</string>
+    <string name="id">이메일</string>
+    <string name="pw">비밀번호</string>
+    <string name="name">실명</string>
+    <string name="telnum">전화번호</string>
+    <string name="menu">메인 메뉴</string>
+    <string name="about">나의 정보</string>
+    <string name="testques">37.5도 이상의 발열이 있으신가요?</string>
+    <string name="defaultcode">0.</string>
+</resources>
